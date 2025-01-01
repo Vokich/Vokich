@@ -5,7 +5,7 @@
 
 
 ### 🤨 About me:
-#### LOADING...
+#### LOADING....
 
 ---
 
