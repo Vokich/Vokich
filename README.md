@@ -10,6 +10,8 @@
 
 ### My plans on 2025:
 
+Create an own IDE
+
 
 ---
 
