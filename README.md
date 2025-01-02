@@ -12,6 +12,8 @@
 
 Create an own IDE
 
+Make a physics library on Python
+
 
 ---
 
