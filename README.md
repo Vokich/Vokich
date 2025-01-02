@@ -7,6 +7,10 @@
 ### 🤨 About me:
 #### LOADING....
 
+
+### My plans on 2025:
+
+
 ---
 
 ### 💻 Language that i know:
