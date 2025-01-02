@@ -14,7 +14,6 @@ Create an own IDE
 
 Make a physics library on Python
 
-
 ---
 
 ### 💻 Language that i know:
