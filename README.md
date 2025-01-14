@@ -16,7 +16,7 @@ Make a physics library on Python
 
 ---
 
-### 💻 Language that i know:
+### 💻 Language i know:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### 💻 Language I study:
