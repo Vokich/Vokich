@@ -5,7 +5,7 @@
 
 
 ### 🤨 About me:
-#### loading....
+#### loading...
 
 
 ### My plans on 2025:
