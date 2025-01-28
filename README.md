@@ -5,7 +5,7 @@
 
 
 ### 🤨 About me:
-#### loading....
+#### I am Python, Java and Web developer
 
 
 ### My plans on 2025:
