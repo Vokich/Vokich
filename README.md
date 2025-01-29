@@ -5,7 +5,7 @@
 
 
 ### 🤨 About me:
-#### I am Python, Java and Web developer
+#### I am Python, Java and Web developerlol
 
 
 ### My plans on 2025:
