@@ -3,11 +3,6 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python,+Java+and+Web+Developer👀)](https://git.io/typing-svg)
 
-
-### 🤨 About me:
-#### I am Python, Java and Web developerlol
-
-
 ### My plans on 2025:
 
 Create an own IDE
