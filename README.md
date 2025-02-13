@@ -5,7 +5,7 @@
 
 ### My plans on 2025:
 
-Create an own IDE
+Create an own ~~IDE~~ Text Editor
 
 Make a physics library on Python
 
