@@ -35,14 +35,6 @@ Make a ~~physics library~~ ???? on Python
 
 ![](https://komarev.com/ghpvc/?username=Vokich&style=flat-square)
 
----
-
-### 📞 My contacts:
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:danger.sous42@gmail.com)
-<a href="https://t.me/Vokich34" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="Telegram"/>
-</a>
-
 
 
 
