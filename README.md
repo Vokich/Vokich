@@ -3,13 +3,7 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python,+Java+and+Web+Developer👀)](https://git.io/typing-svg)
 
-### My plans on 2025:
-
-Create an own ~~IDE~~ Text Editor
-
-Make a ~~physics library~~ ???? on Python
-
-????
+This page will rebuild....
 
 ---
 
