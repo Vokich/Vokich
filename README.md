@@ -22,4 +22,3 @@ I'm Python, Java, Kotlin and Web developer<br>I'm making apps, dynamic sites and
 ---
 [![](https://visitcount.itsvg.in/api?id=Vokich&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
