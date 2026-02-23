@@ -5,6 +5,8 @@ I'm Python, Kotlin and Web developer<br>I'm making apps, dynamic sites and softs
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danger.sous42@gmail.com) 
 [![telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vokich17)
+[![My Discord](https://img.shields.io/badge/My-Discord-%235865F2.svg)](https://discord.com/users/1150041964042002466)
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
