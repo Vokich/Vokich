@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm Python, Kotlin and Web developer<br>I'm making apps, dynamic sites and softs<br>I'm currently learning React, Android development and Angular
-
+I'm Python and Web developer<br>I'm making apps, dynamic sites and softs<br>I'm currently learning React and Flask
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danger.sous42@gmail.com) 
