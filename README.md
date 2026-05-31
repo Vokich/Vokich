@@ -7,9 +7,9 @@ Winner of:
 - Semi-final of "Школьный патент - Шаг в будущее! 2025-2026"(1st place)(project)
 
 #### My hard-skills:
-**Languages:**
+--**Languages:**
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-**Frameworks:**
+--**Frameworks:**
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -18,13 +18,7 @@ Winner of:
 ### Stats:
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vokich&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=Vokich&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vokich&theme=tokyonight&hide_border=true&radius=10" alt="Activity Graph" />
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vokich&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
