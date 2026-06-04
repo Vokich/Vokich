@@ -9,6 +9,7 @@ Winner of:
 #### My hard-skills:
 - **Languages:**
   - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  - <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 - **Frameworks:**
   - <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -22,3 +23,14 @@ Winner of:
 <p>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Vokich&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=6" alt="Top Languages" />
 </p>
+
+## My contacts:
+<a href="mailto:danger.sous42@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://t.me/vokich17">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+<a href="https://discord.com/users/1150041964042002466">
+  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
