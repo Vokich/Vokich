@@ -1,5 +1,5 @@
 # Yo Wassup
-### Im a python backend developer and develop backends for websites. I also participate in various competitions and Olympiads.
+### Im a python backend developer and develop backends for websites. I also participate in various competitions and olympiads.
 Winner of: 
 - Regional stage of "Юные техники 2024-2025"(2nd place)([project](https://github.com/Vokich/LipetskStat))
 - Federal stage of "Юные техники 2025-2026"(1st place)([project](https://github.com/Vokich/Map-problem))
