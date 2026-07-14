@@ -1,5 +1,5 @@
 # Yo Wassup
-### Im a python backend developer
+### Im a python backend developer and develop backends for websites. I also participate in various competitions and Olympiads.
 Winner of: 
 - Regional stage of "Юные техники 2024-2025"(2nd place)([project](https://github.com/Vokich/LipetskStat))
 - Federal stage of "Юные техники 2025-2026"(1st place)([project](https://github.com/Vokich/Map-problem))
@@ -25,6 +25,7 @@ Winner of:
 </p>
 
 ## My contacts:
+### If u would like to work with me, u can write here::
 <a href="mailto:danger.sous42@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
