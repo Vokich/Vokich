@@ -16,6 +16,10 @@ Winner of:
   - <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   - <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
 
+
+### My projects:
+- 
+
 ### Stats:
 <p>
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Vokich&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
